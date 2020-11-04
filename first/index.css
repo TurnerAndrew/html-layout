@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: lightgray;
+}
+
+#top-bar {
+    width: 100%;
+    height: 20%;
+    background-color: #444444;
+}
+
+#middle-box {
+    height: 75%;
+    width: 75%;
+    background-color: white;
+    margin: auto;
+}
+
+#bottom-bar {
+    height: 10%;
+    width: 75%;
+    background-color: black;
+    margin: auto;
+}
